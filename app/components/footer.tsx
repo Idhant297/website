@@ -42,7 +42,7 @@ export default function Footer() {
             className="footer-link flex items-center transition-all hover:underline underline-offset-2 decoration-[0.1em]"
             rel="noopener noreferrer"
             target="_blank"
-            href="https://github.com/Idhant297"
+            href="https://github.com/idhantgulati"
           >
             <ArrowIcon />
             <p className="ml-2 h-7">github</p>
@@ -64,7 +64,7 @@ export default function Footer() {
             className="footer-link flex items-center transition-all hover:underline underline-offset-2 decoration-[0.1em]"
             rel="noopener noreferrer"
             target="_blank"
-            href="https://x.com/Idhant297"
+            href="https://x.com/idhantgulati"
           >
             <ArrowIcon />
             <p className="ml-2 h-7">twitter (x)</p>
@@ -97,12 +97,12 @@ export default function Footer() {
       </div>
       <div className="flex justify-between items-center mt-4">
         <a 
-          href="https://github.com/idhant297/website" 
+          href="https://github.com/idhantgulati/website" 
           target="_blank" 
           rel="noopener noreferrer"
           className="footer-version text-sm"
         >
-          v2.01.0 (oct 2025)
+          v2.01.01 (jan 2026)
         </a>
         <Clock />
       </div>

@@ -60,13 +60,13 @@ export default function Page() {
 
           <section className="mb-4">
             <p className="mb-4 text-left text-[15px] leading-relaxed">
-              {`worked with my friends on `}<a href="https://github.com/Idhant297/DenseTeX" target="_blank" rel="noopener noreferrer" className="underline underline-offset-4 decoration-1">densetex</a>{` during `}<a href="https://buildspace.so/" target="_blank" rel="noopener noreferrer" className="underline underline-offset-4 decoration-1">buildspace</a>{`, a fast and accurate image-to-latex model using transformers and CNNs. i also led my university's computer vision team for `}<a href="https://www.robomasterna.com/" target="_blank" rel="noopener noreferrer" className="underline underline-offset-4 decoration-1">robomaster</a>{`, a competitive combat robotics tournament, for over a year—where i learned a lot about optimizing systems for resource-constrained environments. additionally, i was part of a research lab at my university where i worked on machine learning algorithms to predict and optimize power consumption in 3d printers.`}
+              {`worked with my friends on `}<a href="https://github.com/idhantgulati/DenseTeX" target="_blank" rel="noopener noreferrer" className="underline underline-offset-4 decoration-1">densetex</a>{` during `}<a href="https://buildspace.so/" target="_blank" rel="noopener noreferrer" className="underline underline-offset-4 decoration-1">buildspace</a>{`, a fast and accurate image-to-latex model using transformers and CNNs. i also led my university's computer vision team for `}<a href="https://www.robomasterna.com/" target="_blank" rel="noopener noreferrer" className="underline underline-offset-4 decoration-1">robomaster</a>{`, a competitive combat robotics tournament, for over a year—where i learned a lot about optimizing systems for resource-constrained environments. additionally, i was part of a research lab at my university where i worked on machine learning algorithms to predict and optimize power consumption in 3d printers.`}
             </p>
           </section>
 
           <section className="mb-4">
             <p className="mb-4 text-left text-[15px] leading-relaxed">
-              {`i like interacting with new people. if anything from the above interests you, feel free to reach out via `}<a href="https://x.com/Idhant297" target="_blank" rel="noopener noreferrer" className="underline underline-offset-4 decoration-1">twitter</a>{` or `}<a href="mailto:idhant.gulati@gmail.com" className="underline underline-offset-4 decoration-1">email</a>{`.`}
+              {`i like interacting with new people. if anything from the above interests you, feel free to reach out via `}<a href="https://x.com/idhantgulati" target="_blank" rel="noopener noreferrer" className="underline underline-offset-4 decoration-1">twitter</a>{` or `}<a href="mailto:idhant.gulati@gmail.com" className="underline underline-offset-4 decoration-1">email</a>{`.`}
             </p>
           </section>
 

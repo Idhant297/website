@@ -4,13 +4,11 @@ import { useState, useEffect } from 'react'
 
 // Array of profile images
 const profileImages = [
-    '/image/img.jpeg',
+    '/image/img-1.jpeg',
     '/image/img-2.jpeg',
-    // '/image/img-3.jpeg',
-    // '/image/img-4.jpeg',
+    '/image/img-3.jpeg',
+    '/image/img-4.jpeg',
     '/image/img-5.jpeg',
-    '/image/img-6.jpeg',
-    '/image/img-7.jpeg',
 ]
 
 // Get a random image that's different from a specific image
