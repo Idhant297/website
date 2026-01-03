@@ -42,13 +42,13 @@ export default function Page() {
 
           <section className="mb-4">
             <p className="mb-4 text-left text-[15px] leading-relaxed">
-              {`currently, `}<span className="italic">researching</span>{` vision-language models, specifically investigating how misalignment emerges broadly across domains when it's only induced in a narrow domain during post-training.`}
+              {`currently, `}<span className="italic">researching</span>{` vision-language models, specifically investigating how misalignment emerges broadly across domains and modalities when it's induced in a narrow domain during post-training.`}
             </p>
           </section>
 
           <section className="mb-4">
             <p className="mb-4 text-left text-[15px] leading-relaxed">
-              {`over the summer, as part of `}<a href="https://tzafon.ai" target="_blank" rel="noopener noreferrer" className="italic underline underline-offset-4 decoration-1">Tzafon</a>{`, i researched reasoning models. i spent my time developing a framework around sampling trajectories from language models to improve their reasoning capabilities. also, contributed to the pre-training regime by helping curate clean, high-quality data for model training.`}
+              {`over the past summer, as part of `}<a href="https://tzafon.ai" target="_blank" rel="noopener noreferrer" className="italic underline underline-offset-4 decoration-1">Tzafon</a>{`, i researched reasoning models. i spent my time developing a framework around sampling trajectories from language models to improve their reasoning capabilities. also, contributed to the pre-training regime by helping curate clean, high-quality data for model training.`}
             </p>
           </section>
 

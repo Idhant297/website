@@ -102,7 +102,7 @@ export default function Footer() {
           rel="noopener noreferrer"
           className="footer-version text-sm"
         >
-          v2.01.01 (jan 2026)
+          v2.01.02 (jan 2026)
         </a>
         <Clock />
       </div>
